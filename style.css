@@ -1,0 +1,90 @@
+img{
+   width:  25vw;
+   height: 30vh;
+}
+
+
+#Careers{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large; 
+    display: flex;
+    padding: 20px;
+    flex-direction: row-reverse;
+    
+       }
+        
+       .careers_image{
+      
+       }
+
+       .careers_content{
+         
+       }
+    
+    
+    #Financial{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large; 
+    display: flex;
+    padding: 20px;
+
+       }
+        
+       .financial_image{
+
+       }
+    
+       .financial_content{
+
+       }
+      
+    #earlyLearning{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large; 
+    display: flex;
+    padding: 20px;
+    flex-direction: row-reverse;
+   
+       }
+        
+       .early_image{
+
+       }
+    
+       .early_content{
+
+       }
+    
+    #Camp{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large; 
+    display: flex;
+    padding: 20px;
+   
+       }
+        
+       .camp_image{
+
+       }
+    
+       .camp_content{
+
+       }
+
+#Health{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large; 
+    display: flex;
+    padding: 20px;
+    flex-direction: row-reverse;
+   
+        }
+            
+        .health_image{
+
+        }
+        
+        .health_content{
+
+        }
+        
